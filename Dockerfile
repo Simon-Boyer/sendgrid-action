@@ -1,4 +1,4 @@
-FROM peterevans/sendgrid-nodejs:1.0.0
+FROM ghcr.io/simon-boyer/sendgrid-nodejs-docker:latest
 
 LABEL maintainer="Peter Evans <mail@peterevans.dev>"
 LABEL repository="https://github.com/peter-evans/sendgrid-action"
